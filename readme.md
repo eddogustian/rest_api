@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+<h1>Example READ(GET)</h1>
 <a href="#"><img src="/public/images/get.png" alt="api"></a>
+</p>
+</br>
+<h1>Example UPDATE(PUT)</h1>
+<a href="#"><img src="/public/images/put.png" alt="api"></a>
+</p>
+</br>
+<h1>Example DELETE(DELETE)</h1>
+<a href="#"><img src="/public/images/delete.png" alt="api"></a>
+</p>
+</br>
+<h1>Example Create(POST)</h1>
+<a href="#"><img src="/public/images/post.png" alt="api"></a>
 </p>
 
